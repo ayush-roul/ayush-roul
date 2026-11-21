@@ -86,7 +86,7 @@ SELECT category, values FROM ayush_roul.tech_stack;
     <tr>
       <td><code>connect</code></td>
       <td>
-        💼 <a href="https://linkedin.com/in/your-handle"><code>LinkedIn</code></a> • 
+        💼 <a href="https://www.linkedin.com/in/ayush-roul-611b93302/"><code>LinkedIn</code></a> • 
         📸 <a href="https://www.instagram.com/ayyx.xsh/"><code>Instagram</code></a>
       </td>
     </tr>
