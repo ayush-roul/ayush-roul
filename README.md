@@ -26,7 +26,7 @@ ORDER BY project_id ASC;
       <td><code>smart_kissan_db</code></td>
       <td><code>PostgreSQL, Supabase, Python, MobileNetV2</code></td>
       <td><code>TOP_50_TRITHON</code></td>
-      <td><a href="#"><code>[src]</code></a></td>
+      <td><a href="https://github.com/ayush-roul/SmartKissanV2.git"><code>🔗</code></a></td>
     </tr>
     <tr>
       <td><code>02</code></td>
